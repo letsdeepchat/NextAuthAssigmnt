@@ -54,10 +54,11 @@ Run unit/integration tests:
 npm test
 ```
 
-## Notes
+## Followed Notes
 
 * Frontend-only assignment demo.
 * Do not hardcode secrets in real apps.
 * Do not store clear-text passwords in production.
 * Page layout blocks global scroll; image grid scrolls inside container.
+
 
